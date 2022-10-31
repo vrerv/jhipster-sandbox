@@ -1,0 +1,1 @@
+org.springframework.test.context.ContextCustomizerFactory = co.vrerv.eva01.config.TestContainersSpringContextCustomizerFactory
